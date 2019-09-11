@@ -1,0 +1,2 @@
+# payrollTest
+Simple inheritance exercise
